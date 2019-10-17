@@ -1,8 +1,10 @@
 # Probabilidades y Estadistica - 2019 2$^{do}$C
 
-#### TP1 - Ley de los Grandes Numeros y Teorema Central del Limite
-
-> [https://colab.research.google.com/.../TP%201.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%201.ipynb)
+|Notebooks|
+|___|
+|*** TP1 - Ley de los Grandes Numeros y Teorema Central del Limite ***|
+|---|
+| [https://colab.research.google.com/.../TP%201.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%201.ipynb)|
 
 #### La Catadora de Té:
 > [https://colab.research.google.com/.../La Catadora de Te.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/La%20Catadora%20de%20Te.ipynb)
