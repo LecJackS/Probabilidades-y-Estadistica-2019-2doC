@@ -2,8 +2,11 @@
 
 |Notebooks|
 |---|
+| **TP2 - *Estadística descriptiva y Procesos de Poisson*** |
+| > [https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%202.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%202.ipynb)|
+|![](https://i.imgur.com/FugHlNj.png)|
 | **TP1 - *Ley de los Grandes Numeros y Teorema Central del Limite*** |
-| > [https://colab.research.google.com/.../TP%201.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%201.ipynb)|
+| > [https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%201.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%201.ipynb)|
 |![](https://i.imgur.com/YjNL33T.png)|
 |***La Catadora de Té***|
 | > [https://colab.research.google.com/.../La Catadora de Te.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/La%20Catadora%20de%20Te.ipynb)|
