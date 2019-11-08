@@ -2,6 +2,12 @@
 
 |Notebooks|
 |---|
+| **Labo 4 - *Intervalos de Confianza*** |
+| > [https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/Labo%204.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/Labo%204.ipynb)|
+|![](https://i.imgur.com/mDevMpR.png)|
+| **Labo 3 - *Estimadores*** |
+| > [https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/Labo%203.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/Labo%203.ipynb)|
+|![](https://i.imgur.com/2gD9I6J.png)|
 | **TP2 - *Estadística descriptiva y Procesos de Poisson*** |
 | > [https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%202.ipynb](https://colab.research.google.com/github/LecJackS/Probabilidades-y-Estadistica-2019-2doC/blob/master/TP%202.ipynb)|
 |![](https://i.imgur.com/FugHlNj.png)|
