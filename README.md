@@ -1,4 +1,4 @@
-# Probabilidades y Estadistica - 2019 2<sup>do</sup>C 
+# Probabilidades y Estadistica - 2019, 2<sup>do</sup> cuatrimestre
 
 |Notebooks|
 |---|
